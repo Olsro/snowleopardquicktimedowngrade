@@ -17,7 +17,7 @@ If not sure and if you have enough disk space, encoding everything to 160kbps VB
 
 If you import CDs, don't forget to enable errors correction in the import settings menu of iTunes !
 
-Only Clickwheel iPods and devices running a version below iOS 7 are affected by the software decoding issue. Also, Rockbox custom firmware is not affected by this issue. If you don't want to use a very old encoder, you can encode to AAC 256kbps to mask most of the artifacts on old devices or encode to ALAC.
+Only Clickwheel iPods and devices running a version below iOS 7 are affected by the software decoding issue. Also, Rockbox custom firmware is not affected by this issue. If you don't want to use a very old encoder, you can encode to AAC 256kbps to mask most of the artifacts on old devices or encode to lossless (ALAC or AIFF).
 You may also configure QuickTime 7.6.6 on Windows and take advantage of it using Foobar2000 to get much more flexibility for any of your convert needs.
 
 # I like your work and would like to support you !
