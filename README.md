@@ -19,7 +19,7 @@ Recommended settings for transparency :
 
 If not sure and if you have enough disk space, encoding everything to 160kbps VBR AAC is very safe.
 
-If you import CDs, don't forget to enable errors correction in the import settings menu of iTunes !
+Also if you want to import CDs, don't forget to enable errors correction in the import settings menu of iTunes !
 
 # I like your work and would like to support you !
 You can tip me on Patreon : https://www.patreon.com/Olsro
