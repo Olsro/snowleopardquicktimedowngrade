@@ -6,7 +6,7 @@ The aim of the package is to downgrade all of the affected files to their versio
 # How to use
 1) Install Snow Leopard with all updates excepted iTunes update
 2) Install Pacifist for Snow Leopard: https://www.charlessoft.com/pacifist_olderversions.html
-3) Download the pkg in this repo
+3) Download the pkg in this repo (https://github.com/Olsro/snowleopardquicktimedowngrade/raw/refs/heads/main/SnowRevertAudio2013.pkg)
 4) Install iTunes 9.2.1 which is the last iTunes version that can take advantage of the old encoder: https://secure-appldnld.apple.com/iTunes9/061-8725.20100722.Bhnyt/iTunes9.2.1.dmg and install it. If your iTunes version has already been updated, I recommend to install the pkg using Pacifist to do it easily without making a mistake.
 5) Profit. Importing CDs and converting to lossy will now be done using an encoder which is perfectly compatible with old devices without causing nasty sound articts when playing the sample on those devices only.
 
