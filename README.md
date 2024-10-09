@@ -16,6 +16,7 @@ You may also configure QuickTime 7.6.6 on Windows and take advantage of it using
 Recommended settings for transparency : 
 - 128kbps VBR AAC for all other types of music
 - 160kbps VBR AAC for classical music
+
 If not sure and if you have enough disk space, encoding everything to 160kbps VBR AAC is very safe.
 
 If you import CDs, don't forget to enable errors correction in the import settings menu of iTunes !
